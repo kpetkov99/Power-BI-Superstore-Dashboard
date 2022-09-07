@@ -5,4 +5,5 @@ in order to create a Power BI dashboard.
 
 Dashboard preview image:
 
-![SuperStorePBI](https://user-images.githubusercontent.com/112380016/187641083-d61431c1-cdf1-4c04-91c6-ccab8cdc289f.png)
+![PBI1](https://user-images.githubusercontent.com/112380016/188887946-ebd72fc1-320c-4845-812b-6fb53fc97dfd.gif)
+
